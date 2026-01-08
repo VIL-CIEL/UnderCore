@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36d23e9589a41624cac4a0af6f03f66c, type: 3}
+  m_Name: tuToriel
+  m_EditorClassIdentifier: 
+  _name: (Tu)Toriel
+  main_description: '* Your first fight !
+
+    * She is smiling at you.'
+  actTextbuttons:
+  - Check
+  - Criticize
+  - Hug
+  - Flirt
+  - Cheer
+  - Imitate
+  actText:
+  - '* (Tu)Toriel - 27/28 HP, ATK 4, DEF 0
+
+    * Your first enemy !'
+  - '* She seems upset'
+  - '* You hug Toriel, she is smiling'
+  - '* She''s blushing'
+  - '* She smile'
+  - '* She laugh'
+  spareTextbuttons:
+  - Spare
+  - Run Away
+  spareText:
+  - '* You spared Toriel, nothing happen'
+  - '* You try to run away but something is blocking the way'
+  level: 3
+  exp: 0
+  HP: -10
+  fullHP: 28
+  AT: 4
+  DEF: 0
+  exp_won: 8
