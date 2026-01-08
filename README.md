@@ -1,5 +1,5 @@
 # UnderCore
-Projet Universitaire de première année de BTS CIEL
+Projet académique de première année de BTS CIEL
 
 ## - Comment ouvrir les fichiers sources ?
 - Télécharger la dernière release<br>
